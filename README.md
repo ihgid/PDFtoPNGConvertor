@@ -1,7 +1,9 @@
 ## 🌟 Overview
 **PDFtoPNGConvertor** was built to solve the headache of manual file conversion. Whether you are dealing with engineering "Flat Plate" drawings in PDF format or modern web images like AVIF and WEBP, this tool standardizes everything into AI-ready PNGs in seconds.
+<img width="866" height="651" alt="PdftoPNG" src="https://github.com/user-attachments/assets/fbe7685b-f470-4284-9866-72f2a90f784e" />
 
 ## ✨ Key Features
+
 - **Stepped User Interface:** The UI "unfolds" logically—select folder, customize, then convert.
 - **Non-Destructive Workflow:** Smart file-saving logic ensures existing files are never overwritten; it simply adds an increment (e.g., `_1`, `_2`) to the name.
 - **Live Terminal Console:** A built-in terminal window provides real-time feedback on every file processed.
