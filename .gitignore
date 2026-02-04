@@ -1,0 +1,12 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore PyInstaller folders
+build/
+dist/
+*.spec
+
+# Ignore local environment
+venv/
+.env
